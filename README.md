@@ -10,4 +10,5 @@ Additionally, an "AM/PM" box is included to indicate whether the time is in the 
 
 The overall layout of the digital clock is centered on the page, making it visually balanced and pleasing to the eye. The glowing corner effect adds a subtle highlight and depth to the boxes, enhancing the neumorphic style.
 
-![image](https://github.com/mt057/Neumorphism-Digital-Clock/assets/82698555/1c2c73a1-fa52-4b42-96d8-4731a1c52dc8)
+![Create Digital Clock Using HTML CSS and JavaScript](https://github.com/mt057/Neumorphism-Digital-Clock/assets/82698555/967c56d4-15ca-4f24-8b22-cb76c8096a59)
+
